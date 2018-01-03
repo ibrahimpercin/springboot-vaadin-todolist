@@ -1,10 +1,10 @@
-#Full stack Vaadin and Spring Boot demo app
+# Full stack Vaadin and Spring Boot demo app
 
-##Live Demo
+## Live Demo
 
 https://springboot-vaadin-todolist.herokuapp.com/
 
-##How to run
+## How to run
 ```
 mvn package spring-boot:run
 ```
