@@ -9,7 +9,11 @@
 	<packaging>jar</packaging>
 
 	<name>todolist</name>
+<<<<<<< HEAD
 	<description>Demo project for Spring Boot feature2</description>
+=======
+	<description>Demo project for Spring Boot333</description>
+>>>>>>> feature/Feature-3
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
